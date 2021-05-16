@@ -1,0 +1,281 @@
+html{
+    background-color: rgb(4, 121, 255);
+    background-size: 2500px;
+    background-position-x: center;
+    background-position-y: bottom;
+}
+.felirat{
+    text-align: center;
+}
+.logo{
+    text-align: center;
+}
+.gomb{
+    color: white;
+    background-color: rgb(0, 109, 182);
+    font-size: 40px;
+    border-radius: 20px;
+    border-style: solid;
+    text-align: center;
+    margin-left: 1100px;
+    margin-right: 1100px;
+    margin-bottom: 50px;
+    margin-top: 25px;
+    min-width: 200px;
+}
+.oldal1{
+    background-color: rgb(0, 109, 182);
+    margin-left: -20px;
+    margin-right: 2300px;
+    margin-top: -900px;
+    padding-bottom: 1300px;
+}
+.oldal2{
+    background-color: rgb(0, 109, 182);
+    margin-right: -20px;
+    margin-left: 2300px;
+    margin-top: -1350px;
+    padding-bottom: 1350px;
+}
+p{
+    background-color: rgb(0, 109, 182);
+    color: white;
+    height: 350px;
+    padding-top: 20px;
+    padding-left: 200px;
+    padding-right: 200px;
+    font-size: 30px;
+    margin-bottom: -30px;
+    margin-left: 500px;
+    margin-right: 500px;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+    min-width: 870px;
+    border-style: solid;
+    border-bottom-style: none;
+    border-color: black;
+}
+ul{
+    background-color: rgb(0, 109, 182);
+    color: white;
+    text-align: left;
+    padding-top: 100px;
+    padding-bottom: 20px;
+    padding-left: 230px;
+    font-size: 30px;
+    margin-left: 500px;
+    margin-right: 500px;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+    min-width: 1040px;
+    border-style: solid;
+    border-top-style: none;
+    border-color: black;
+}
+h1{
+    font-size: 150px;
+    text-align: center;
+    margin: -10px;
+    color: white;
+    background-color: rgb(0, 109, 182);
+    min-width: 1000px;
+}
+h2{
+    background-color: rgba(0, 109, 182, 0.555);
+    color: white;
+    text-align: center;
+    font-size: 50px;
+    border-radius: 10px;
+    margin-left: 800px;
+    margin-right: 800px;
+    min-width: 300px;
+    border-style: solid;
+    border-color: black;
+}
+h3{
+    color: white;
+}
+h4{
+    color: white;
+    text-align: center;
+    font-size: 20px;
+    margin-top: -30px;
+}
+hr{
+    background-color: black;
+    border-color: black;
+    height: 10px;
+    margin-top: 10px;
+    margin-left: 500px;
+    margin-right: 500px;
+}
+.Dominus{
+    background-color:rgb(0, 109, 182);
+    color:white;
+    font-size: 50px;
+    margin-top: 200px;
+    margin-left: 700px;
+    margin-right: 1600px;
+    text-align: center;
+    border-radius: 10px;
+    border-style: solid;
+    border-color: black;
+    min-width: 200px;
+}
+.Octane{
+    background-color:rgb(0, 109, 182);
+    color:white;
+    font-size: 50px;
+    margin-top: -65px;
+    margin-left: 1650px;
+    margin-right: 650px;
+    text-align: center;
+    border-radius: 10px;
+    border-style: solid;
+    border-color: black;
+    min-width: 200px;
+}
+.kezdőlap{
+    background-color: rgb(0, 109, 182);
+    color:white;
+    font-size: 50px;
+    margin-top: -65px;
+    margin-left: 1150px;
+    margin-right: 1050px;
+    text-align: center;
+    border-radius: 10px;
+    border-style: solid;
+    border-color: black;
+    min-width: 200px;
+}
+a{
+    color: white;
+}
+.left{
+    margin-top: -1000px;
+    margin-left: 20px;
+}
+.right{
+    margin-top: -600px;
+    margin-left: 2075px;
+}
+.html2{
+    background-image: url(dominus.jpg);
+}
+.dominus2{
+    margin-top: 250px;
+    margin-left: 100px;
+}
+.octane2{
+    margin-top: -175px;
+    margin-left: 2140px;
+}
+.DomHitbox{
+    margin-left: 770px;
+}
+.szoveg{
+    background-color: rgba(0, 109, 182, 0.445);
+    font-size: 50px;
+    color: white;
+    margin-left: 500px;
+    margin-right: 500px;
+    padding: 20px;
+    border: 3px solid black;
+    border-radius: 20px;
+}
+.kezdőlap2{
+    background-color: rgba(211, 211, 211, 0.788);
+    font-size: 50px;
+    margin-top: -65px;
+    margin-left: 700px;
+    margin-right: 1600px;
+    text-align: center;
+    border-radius: 10px;
+    border-style: solid;
+    border-color: black;
+    min-width: 200px;
+}
+.Octane2{
+    background-color:rgba(211, 211, 211, 0.705);
+    font-size: 50px;
+    margin-top: -65px;
+    margin-left: 1650px;
+    margin-right: 650px;
+    text-align: center;
+    border-radius: 10px;
+    border-style: solid;
+    border-color: black;
+    min-width: 200px;
+}
+.rocketleague2{
+    background-color: rgba(211, 211, 211, 0.74);
+    font-size: 50px;
+    margin-left: 1100px;
+    margin-right: 1050px;
+    margin-top: 50px;
+    text-align: center;
+    border-radius: 10px;
+    border-style: solid;
+    border-color: black;
+    min-width: 250px;
+}
+.OctHitbox{
+    margin-left: 875px;
+}
+.kezdőlap3{
+    background-color: rgba(211, 211, 211, 0.651);
+    font-size: 50px;
+    margin-top: -65px;
+    margin-left: 700px;
+    margin-right: 1600px;
+    text-align: center;
+    border-radius: 10px;
+    border-style: solid;
+    border-color: black;
+    min-width: 200px;
+}
+.Dominus3{
+    background-color:rgba(211, 211, 211, 0.671);
+    font-size: 50px;
+    margin-top: -65px;
+    margin-left: 1650px;
+    margin-right: 650px;
+    text-align: center;
+    border-radius: 10px;
+    border-style: solid;
+    border-color: black;
+    min-width: 200px;
+}
+.rocketleague3{
+    background-color: rgba(211, 211, 211, 0.637);
+    font-size: 50px;
+    margin-left: 1100px;
+    margin-right: 1050px;
+    margin-top: 50px;
+    text-align: center;
+    border-radius: 10px;
+    border-style: solid;
+    border-color: black;
+    min-width: 300px;
+}
+.Hitboxes{
+    color: white;
+    font-size: 60px;
+    text-align: center;
+}
+.Octwall{
+    background-image: url(octane.jpg);
+    background-size: 2560px;
+    padding-bottom: 160px;
+    margin-left: -20px;
+    margin-right: -20px;
+    margin-top: -40px;
+}
+.Domwall{
+    background-image: url(dominus.jpg);
+    background-size: 2560px;
+    padding-bottom: 50px;
+    margin-left: -20px;
+    margin-right: -20px;
+    margin-top: -40px;
+}
